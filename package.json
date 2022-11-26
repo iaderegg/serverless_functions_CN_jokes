@@ -1,0 +1,23 @@
+{
+  "name": "serverless_functions_cn_jokes",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaderegg/serverless_functions_CN_jokes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iaderegg/serverless_functions_CN_jokes/issues"
+  },
+  "homepage": "https://github.com/iaderegg/serverless_functions_CN_jokes#readme",
+  "type": "module",
+  "devDependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
