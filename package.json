@@ -19,5 +19,8 @@
   "type": "module",
   "devDependencies": {
     "node-fetch": "^3.3.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.1.1"
   }
 }
